@@ -1,3 +1,3 @@
 # Stepik_courses
 Solutions to the tasks of the courses completed on Stepik and certificates.
-https://camo.githubusercontent.com/fba563b3bddffd85a81993e7bbb0b89511ea814df4ee8fe36ac0ebf12788ecdc/68747470733a2f2f7374617469632e74696c646163646e2e636f6d2f74696c64333736312d333036322d343633352d613633362d3636363336333634333433322f73746570696b2d73686172652d72752e706e67
+![image](https://user-images.githubusercontent.com/80260272/228473705-6e890956-e0bf-4da6-9f9c-1fc3263cfb91.png)
